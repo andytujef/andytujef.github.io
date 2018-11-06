@@ -1,0 +1,24 @@
+{
+  "name": "andytujef.github.io",
+  "version": "1.0.0",
+  "description": "mi pagina web ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andytujef/andytujef.github.io.git"
+  },
+  "author": "andres",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andytujef/andytujef.github.io/issues"
+  },
+  "homepage": "https://github.com/andytujef/andytujef.github.io#readme",
+  "dependencies": {
+    "boostrap": "^2.0.0",
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1"
+  }
+}
